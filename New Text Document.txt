@@ -1,0 +1,6 @@
+notes :
+ باقي تعديل الاتي 
+
+1- how it work
+2-hover and after&before => pricing section
+3-ouer awsom => responsive 
